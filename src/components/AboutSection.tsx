@@ -25,7 +25,7 @@ const AboutSection = () => {
           <h2 className="text-5xl font-bold text-white mb-6">About Me</h2>
           <div className="max-w-4xl mx-auto">
             <p className="text-xl text-white/80 leading-relaxed mb-12">
-              I'm Syam, a passionate coding student with a love for creating innovative digital solutions. 
+              I'm Syam, a beginner coder with a passion for building innovative solutions. I built my first website at the age of 16, and I've been hooked ever since. 
               Currently exploring the vast world of programming, I specialize in web development and enjoy 
               building interactive applications that solve real-world problems. My journey in tech is driven 
               by curiosity and a desire to make a positive impact through code.
@@ -45,14 +45,14 @@ const AboutSection = () => {
             <div className="grid md:grid-cols-3 gap-8 mb-12">
               <div className="bg-white/10 backdrop-blur-md rounded-xl p-8 border border-white/20 hover:scale-105 transition-all duration-300 group">
                 <Code className="mx-auto mb-4 text-purple-400 group-hover:scale-110 transition-transform" size={48} />
-                <h3 className="text-xl font-semibold text-white mb-3">Frontend Development</h3>
-                <p className="text-white/70 leading-relaxed">Creating beautiful, responsive user interfaces with modern frameworks and cutting-edge design principles.</p>
+                <h3 className="text-xl font-semibold text-white mb-3">Web Development</h3>
+                <p className="text-white/70 leading-relaxed">Creating beautiful, responsive website.</p>
               </div>
               
               <div className="bg-white/10 backdrop-blur-md rounded-xl p-8 border border-white/20 hover:scale-105 transition-all duration-300 group">
                 <Laptop className="mx-auto mb-4 text-pink-400 group-hover:scale-110 transition-transform" size={48} />
-                <h3 className="text-xl font-semibold text-white mb-3">Full Stack Development</h3>
-                <p className="text-white/70 leading-relaxed">Building complete web applications from database design to user interface implementation.</p>
+                <h3 className="text-xl font-semibold text-white mb-3">Aspiring Development</h3>
+                <p className="text-white/70 leading-relaxed">Aspiring dev.</p>
               </div>
               
               <div className="bg-white/10 backdrop-blur-md rounded-xl p-8 border border-white/20 hover:scale-105 transition-all duration-300 group">
